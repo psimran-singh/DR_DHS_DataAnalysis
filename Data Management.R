@@ -37,8 +37,8 @@ data2 <- data2 %>% rename(
                       "REGION"=hv024,
                       "URBAN_RURAL"=hv025,
                       "RELATION_TO_HH"=hv101,
-                      "AGE"=hv104,
-                      "SEX"=hv105,
+                      "SEX"=hv104,
+                      "AGE"=hv105,
                       "YEARS_OF_EDUCATION"=hv108,
                       "MARITAL_STATUS"=hv115,
                       "SCHOOL_ATTENDANCE_STATUS"=hv129,
@@ -59,18 +59,18 @@ data2 <- data2 %>% rename(
                       "HH_HEAD_EDUCATION"=sh25)
 data2 <- data2 %>% rename_with(tolower)
 
-# #Create femalehead
-# data2$femalehead <- data2$hv219=="female"
-# #Create childofhead
-# data2$childofhead <- data2$hv101=="son/daughter"
+#Create femalehead
+data2$female_head <- data2$sex_of_head=="female"
+#Create childofhead
+data2$child_of_head <- data2$relation_to_hh=="son/daughter"
 
 
 
 data3 <- data2 %>% filter(
 #Limit the dataset to children aged 6-14
-                          hv105 > 5, hv105 < 15,
+                          age > 5, age < 15,
 #Remove missing values for child's education
-                          hv108 <90,
+                          years_of_education < 90,
 #Only children of head
-                          childofhead==TRUE)
+                          child_of_head==TRUE)
 
