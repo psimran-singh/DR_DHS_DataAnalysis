@@ -1,17 +1,16 @@
-setwd("~/Rutgers Fall 2021/Multivariate Methods/DR 2013 DHS Data/DR_2013_DHS Household Member Recode/DRPR61DT")
-
+setwd("~/Rutgers Fall 2021/Multivariate Methods/DR 2013 DHS Data/DR_DHS_DataAnalysis")
 library(foreign)
 library(dplyr)
 
-data <- read.dta("DRPR61FL.DTA") #Household Recode
+data1 <- read.dta("DR_2013_DHS Household Member Recode/DRPR61DT/DRPR61FL.dta") #Household Member Recode
 
-data1 <- subset(data,select=c("hv024", #Region of Residence
+data1 <- subset(data1,select=c("hv024", #Region of Residence
                              "hv025", #Urban or Rural
                              "hv101", #Relationship to Head of Household
                              "hv104", #Sex of HH Member
                              "hv105", #Age of HH Member
                              "hv108", #Education in year for HH Member
-                             "hv115", #Marital Status of HH Member
+                             #"hv115", #Marital Status of HH Member (N/A for Kids)
                              "hv129", #School Attendance status category
                              "hv140", #Member has birth certificate
                              "hv206", #HH has electricity
@@ -40,7 +39,7 @@ data2 <- data2 %>% rename(
                       "SEX"=hv104,
                       "AGE"=hv105,
                       "YEARS_OF_EDUCATION"=hv108,
-                      "MARITAL_STATUS"=hv115,
+                     # "MARITAL_STATUS"=hv115,
                       "SCHOOL_ATTENDANCE_STATUS"=hv129,
                       "BIRTH_CERTIFICATE"=hv140,
                       "HAS_ELECTRICITY"=hv206,
@@ -74,3 +73,12 @@ data3 <- data2 %>% filter(
 #Only children of head
                           child_of_head==TRUE)
 
+#Take a random sample
+set.seed(0)
+sample1 <- data3[sample(nrow(data3), 150), ]
+
+#Summary
+summary(sample1)
+
+#Write the CSV for the Sample
+write.csv(sample1,file="Sample1.csv")
