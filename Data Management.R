@@ -2,9 +2,15 @@ setwd("~/Rutgers Fall 2021/Multivariate Methods/DR 2013 DHS Data/DR_DHS_DataAnal
 library(foreign)
 library(dplyr)
 
-data1 <- read.dta("DR_2013_DHS Household Member Recode/DRPR61DT/DRPR61FL.dta") #Household Member Recode
+#For variable sh25:
+#https://microdata.worldbank.org/index.php/catalog/2228/data-dictionary/F5?file_name=RECH4
 
-data1 <- subset(data1,select=c("hv024", #Region of Residence
+###IMPORTING DATA AND PICKING VARIABLES OF INTEREST###
+data0 <- read.dta("DR_2013_DHS Household Member Recode/DRPR61DT/DRPR61FL.dta") #Household Member Recode
+
+data1 <- subset(data0,select=c(
+                             "hhid", #Household ID
+                             "hv024", #Region of Residence
                              "hv025", #Urban or Rural
                              "hv101", #Relationship to Head of Household
                              "hv104", #Sex of HH Member
@@ -29,7 +35,7 @@ data1 <- subset(data1,select=c("hv024", #Region of Residence
                              "sh25" #HH education level
                              ))
 
-###Formatting variables###
+###FORMATTING AND CREATING VARIABLES###
 data2 <- data1
 #Rename Variables
 data2 <- data2 %>% rename(
@@ -62,9 +68,11 @@ data2 <- data2 %>% rename_with(tolower)
 data2$female_head <- data2$sex_of_head=="female"
 #Create childofhead
 data2$child_of_head <- data2$relation_to_hh=="son/daughter"
+#Create HH Head Marital Status (at Household Level)
+#Create HH Head Education Level (at Household Level)
 
 
-
+###LIMITING POPULATION BEFORE SAMPLING###
 data3 <- data2 %>% filter(
 #Limit the dataset to children aged 6-14
                           age > 5, age < 15,
@@ -73,6 +81,8 @@ data3 <- data2 %>% filter(
 #Only children of head
                           child_of_head==TRUE)
 
+
+###CREATING RANDOM SAMPLE###
 #Take a random sample
 set.seed(0)
 sample1 <- data3[sample(nrow(data3), 150), ]
