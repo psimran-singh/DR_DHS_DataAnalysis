@@ -2,9 +2,6 @@ setwd("~/Rutgers Fall 2021/Multivariate Methods/DR 2013 DHS Data/DR_DHS_DataAnal
 library(foreign)
 library(dplyr)
 
-#For variable sh25:
-#https://microdata.worldbank.org/index.php/catalog/2228/data-dictionary/F5?file_name=RECH4
-
 ###IMPORTING DATA AND PICKING VARIABLES OF INTEREST###
 data0 <- read.dta("DR_2013_DHS Household Member Recode/DRPR61DT/DRPR61FL.dta") #Household Member Recode
 
