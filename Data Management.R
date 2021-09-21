@@ -13,7 +13,7 @@ data1 <- subset(data0,select=c(
                              "hv104", #Sex of HH Member
                              "hv105", #Age of HH Member
                              "hv108", #Education in year for HH Member
-                             #"hv115", #Marital Status of HH Member (N/A for Kids)
+                             "hv115", #Marital Status of HH Member (N/A for Kids)
                              "hv129", #School Attendance status category
                              "hv140", #Member has birth certificate
                              "hv206", #HH has electricity
@@ -42,7 +42,7 @@ data2 <- data2 %>% rename(
                       "SEX"=hv104,
                       "AGE"=hv105,
                       "YEARS_OF_EDUCATION"=hv108,
-                     # "MARITAL_STATUS"=hv115,
+                      "MARITAL_STATUS"=hv115,
                       "SCHOOL_ATTENDANCE_STATUS"=hv129,
                       "BIRTH_CERTIFICATE"=hv140,
                       "HAS_ELECTRICITY"=hv206,
@@ -65,11 +65,12 @@ data2 <- data2 %>% rename_with(tolower)
 data2$female_head <- data2$sex_of_head=="female"
 #Create childofhead
 data2$child_of_head <- data2$relation_to_hh=="son/daughter"
-#Create HH Head Marital Status (at Household Level)
-#Create HH Head Education Level (at Household Level)
+#Create hh_head_marital (at Household Level)
+data2$hh_head_marital <- 
+#Create hh_head_education (at Household Level)
 
 
-###LIMITING POPULATION BEFORE SAMPLING###
+###LIMITING TO POPULATION OF INTEREST###
 data3 <- data2 %>% filter(
 #Limit the dataset to children aged 6-14
                           age > 5, age < 15,
@@ -77,6 +78,18 @@ data3 <- data2 %>% filter(
                           years_of_education < 90,
 #Only children of head
                           child_of_head==TRUE)
+
+
+###CREATE ADDITIONAL VARIABLES###
+#Create oldest_male_child
+data3$oldest_male_child <- NA
+data3a=data.frame()
+for (i in unique(data3$hhid)){
+  temp=data3[which(data3$hhid==i),]
+  temp$oldest_child[which(temp$age==max(temp$age))]=1
+  temp$oldest_male_child[which(temp$oldest_child==1 & temp$sex=="male")]
+  data3a=rbind(data3a,temp)
+}
 
 
 ###CREATING RANDOM SAMPLE###
@@ -89,3 +102,4 @@ summary(sample1)
 
 #Write the CSV for the Sample
 write.csv(sample1,file="Sample1.csv")
+
