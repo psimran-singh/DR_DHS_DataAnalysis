@@ -65,10 +65,32 @@ data2 <- data2 %>% rename_with(tolower)
 data2$female_head <- data2$sex_of_head=="female"
 #Create childofhead
 data2$child_of_head <- data2$relation_to_hh=="son/daughter"
-#Create hh_head_marital (at Household Level)
-data2$hh_head_marital <- 
-#Create hh_head_education (at Household Level)
+#Create household level household head marital status dummy variables
+data2$married_head <- data2$relation_to_hh=="head" &
+                      data2$marital_status=="married"
+data2$together_head <- data2$relation_to_hh=="head" &
+                       data2$marital_status=="living together"
+data2$nevermarried_head <- data2$relation_to_hh=="head" &
+                           data2$marital_status=="never married"
+data2 <- data2 %>% mutate(div_wid_sep_head=ifelse(
+                      relation_to_hh=="head" &
+                      marital_status %in% 
+                      c("divorced","not living together","widowed"),
+                      TRUE,FALSE))
 
+data2$hh_married_head <- NA
+data2$hh_together_head <- NA
+data2$hh_nevermarried_head <- NA
+data2$hh_div_wid_sep_head <- NA
+data2a=data.frame()
+for (i in unique(data2$hhid)){
+  temp=data2[which(data2$hhid==i),]
+  temp$hh_married_head=sum(temp$married_head, na.rm=TRUE)
+  temp$hh_together_head=sum(temp$together_head, na.rm=TRUE)
+  temp$hh_nevermarried_head=sum(temp$nevermarried_head, na.rm=TRUE)
+  temp$hh_div_wid_sep_head=sum(temp$div_wid_sep_head, na.rm=TRUE)
+  data2a=rbind(data2a,temp)
+}
 
 ###LIMITING TO POPULATION OF INTEREST###
 data3 <- data2 %>% filter(
