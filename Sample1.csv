@@ -1,151 +1,151 @@
-"","region","urban_rural","relation_to_hh","sex","age","years_of_education","school_attendance_status","birth_certificate","has_electricity","has_radio","has_tv","has_fridge","has_bike","has_motorcycle","has_car","sex_of_head","age_of_head","share_bathroom","water_treated","has_agroland","acres_agroland","hh_head_education","female_head","child_of_head"
-"12227","v","urban","son/daughter","male",6,0,"entered school","has certificate","yes","yes","yes","no","no","no","no","male",29,"yes",NA,"no",NA,"primary",FALSE,TRUE
-"8668","iii","rural","son/daughter","male",7,1,"advanced","has certificate","yes","no","yes","no","no","no","no","male",47,"yes",NA,"no",NA,"primary",FALSE,TRUE
-"18812","i","urban","son/daughter","male",8,1,"advanced","has certificate","yes","no","yes","yes","no","no","yes","female",35,"no",NA,"yes",998,"primary",TRUE,TRUE
-"13264","v","urban","son/daughter","female",12,7,"advanced","has certificate","yes","yes","yes","yes","no","yes","no","female",37,"no",NA,"no",NA,"primary",TRUE,TRUE
-"40036","0","urban","son/daughter","male",9,1,"advanced","neither certificate or registered","yes","no","yes","no","no","yes","no","male",31,"yes",NA,"no",NA,"primary",FALSE,TRUE
-"20412","ii","rural","son/daughter","male",13,3,"advanced","has certificate","yes","yes","yes","no","no","no","no","male",53,"no","no","yes",1,"primary",FALSE,TRUE
-"2273","vi","urban","son/daughter","female",7,1,"advanced","has certificate","yes","no","no","yes","no","no","no","male",38,"no",NA,NA,NA,"primary",FALSE,TRUE
-"35903","0","urban","son/daughter","female",12,4,"advanced","has certificate","yes","yes","yes","yes","no","no","no","female",34,"yes","no","no",NA,"primary",TRUE,TRUE
-"30017","ii","urban","son/daughter","female",12,5,"left school 2+ years ago","neither certificate or registered","yes","no","yes","no","no","no","no","female",32,"no","no","no",NA,"primary",TRUE,TRUE
-"36029","0","rural","son/daughter","female",8,3,"advanced","has certificate","yes","yes","yes","yes","no","yes","no","male",58,"no","no","yes",998,"primary",FALSE,TRUE
-"5151","iv","urban","son/daughter","male",11,2,"advanced","has certificate","yes","no","yes","no","no","no","no","female",42,"yes","yes","no",NA,"primary",TRUE,TRUE
-"11032","ii","rural","son/daughter","male",11,5,"advanced","has certificate","yes","yes","yes","yes","no","yes","no","male",42,"no","no","no",NA,"primary",FALSE,TRUE
-"2755","vi","urban","son/daughter","female",12,5,"advanced","has certificate","yes","yes","yes","yes","no","no","no","male",37,"no",NA,"yes",1,"primary",FALSE,TRUE
-"15395","viii","rural","son/daughter","male",10,5,"advanced","has certificate","yes","yes","yes","yes","no","yes","no","male",39,"no",NA,"no",NA,"primary",FALSE,TRUE
-"34860","viii","urban","son/daughter","male",11,5,"advanced","has certificate","yes","yes","yes","yes","yes","no","yes","male",47,"no",NA,"no",NA,"primary",FALSE,TRUE
-"14927","viii","urban","son/daughter","male",8,1,"advanced","has certificate","yes","yes","yes","yes","no","yes","no","female",34,"no",NA,"no",NA,"primary",TRUE,TRUE
-"232","0","urban","son/daughter","female",10,5,"advanced","has certificate","yes","yes","yes","yes","no","no","no","male",42,"no",NA,"no",NA,"primary",FALSE,TRUE
-"9605","vi","urban","son/daughter","female",10,6,"advanced","has certificate","yes","yes","yes","no","no","no","no","male",34,"no",NA,"no",NA,"primary",FALSE,TRUE
-"6203","iv","urban","son/daughter","female",10,3,"advanced","has certificate","yes","yes","yes","no","no","no","no","male",47,NA,"no","yes",0,"primary",FALSE,TRUE
-"7411","iii","urban","son/daughter","male",13,8,"advanced","has certificate","yes","yes","yes","yes","no","yes","yes","male",48,"no",NA,"yes",3,"primary",FALSE,TRUE
-"4311","iv","rural","son/daughter","female",14,5,"advanced","has certificate","yes","no","no","no","no","no","no","female",31,NA,"no","no",NA,"primary",TRUE,TRUE
-"35623","viii","rural","son/daughter","male",13,5,"repeating","has certificate","yes","yes","yes","yes","yes","yes","no","male",38,"no",NA,"no",NA,"primary",FALSE,TRUE
-"24943","i","rural","son/daughter","male",6,0,"never attended","registered","yes","no","no","no","no","no","no","female",24,NA,NA,"no",NA,"pre-school",TRUE,TRUE
-"25271","vi","urban","son/daughter","male",7,1,"advanced","has certificate","yes","yes","yes","yes","no","yes","no","male",40,"no",NA,"no",NA,"primary",FALSE,TRUE
-"20715","ii","rural","son/daughter","male",6,1,"advanced","has certificate","yes","yes","yes","yes","no","yes","no","female",33,"no",NA,"no",NA,"primary",TRUE,TRUE
-"40522","0","urban","son/daughter","male",13,5,"advanced","has certificate","yes","yes","yes","yes","no","no","no","female",29,"no",NA,"no",NA,"primary",TRUE,TRUE
-"12436","v","urban","son/daughter","female",11,6,"advanced","has certificate","yes","yes","yes","yes","no","no","no","male",36,"no",NA,"no",NA,"primary",FALSE,TRUE
-"18645","iv","rural","son/daughter","male",7,0,"repeating","neither certificate or registered","no","no","no","no","no","yes","no","male",33,"no","yes","yes",0,"primary",FALSE,TRUE
-"31001","ii","urban","son/daughter","female",9,3,"advanced","has certificate","yes","yes","yes","yes","no","no","no","female",30,"no",NA,"no",NA,"primary",TRUE,TRUE
-"16780","iii","urban","son/daughter","female",14,6,"advanced","has certificate","yes","yes","yes","yes","no","no","no","female",37,"no",NA,"no",NA,"primary",TRUE,TRUE
-"22799","i","urban","son/daughter","male",11,3,"advanced","has certificate","yes","no","yes","yes","no","no","no","male",42,"no",NA,"no",NA,"primary",FALSE,TRUE
-"13232","v","urban","son/daughter","female",9,3,"advanced","has certificate","yes","no","no","yes","yes","yes","no","male",43,"no",NA,"no",NA,"primary",FALSE,TRUE
-"38960","0","urban","son/daughter","female",7,2,"advanced","has certificate","yes","yes","yes","yes","no","no","no","male",38,"no",NA,"no",NA,"primary",FALSE,TRUE
-"36615","i","urban","son/daughter","female",13,7,"advanced","has certificate","yes","no","no","no","no","no","no","female",39,"yes",NA,"no",NA,"primary",TRUE,TRUE
-"40430","0","urban","son/daughter","female",10,2,"advanced","neither certificate or registered","yes","yes","yes","yes","no","yes","no","male",37,"no",NA,"no",NA,"primary",FALSE,TRUE
-"38171","0","urban","son/daughter","female",8,3,"advanced","has certificate","yes","yes","yes","yes","no","no","no","female",32,"no","yes","no",NA,"primary",TRUE,TRUE
-"10348","v","rural","son/daughter","male",14,3,"advanced","has certificate","yes","yes","yes","yes","no","no","no","female",41,NA,"yes","no",NA,"primary",TRUE,TRUE
-"21212","iii","rural","son/daughter","male",10,5,"advanced","has certificate","yes","no","yes","yes","no","no","no","male",58,"no","yes","no",NA,"primary",FALSE,TRUE
-"18100","vii","rural","son/daughter","female",8,1,"entered school","has certificate","yes","yes","yes","yes","no","yes","no","male",45,"no",NA,"yes",1,"primary",FALSE,TRUE
-"21815","iii","urban","son/daughter","male",8,3,"advanced","has certificate","yes","no","yes","yes","no","yes","no","male",34,"no",NA,"no",NA,"primary",FALSE,TRUE
-"25031","i","rural","son/daughter","male",10,4,"advanced","has certificate","yes","yes","yes","yes","no","yes","no","male",33,"no",NA,"no",NA,"primary",FALSE,TRUE
-"14387","viii","urban","son/daughter","female",8,2,"advanced","has certificate","yes","no","yes","no","no","no","no","female",42,"no","no","no",NA,"primary",TRUE,TRUE
-"4598","iv","urban","son/daughter","male",6,1,"advanced","has certificate","yes","yes","yes","yes","no","no","no","female",30,"no","yes","no",NA,"primary",TRUE,TRUE
-"9134","iii","rural","son/daughter","male",10,4,"advanced","has certificate","yes","yes","yes","no","no","yes","no","male",33,"no",NA,"no",NA,"primary",FALSE,TRUE
-"148","0","urban","son/daughter","female",7,2,"advanced","has certificate","yes","no","yes","yes","no","yes","no","female",32,"no",NA,"no",NA,"primary",TRUE,TRUE
-"9604","vi","urban","son/daughter","male",12,5,"advanced","has certificate","yes","yes","yes","no","no","no","no","male",34,"no",NA,"no",NA,"primary",FALSE,TRUE
-"8384","iii","urban","son/daughter","male",12,5,"advanced","has certificate","yes","no","yes","no","no","yes","no","male",30,"no",NA,"no",NA,"primary",FALSE,TRUE
-"15303","viii","rural","son/daughter","female",10,5,"advanced","has certificate","yes","yes","yes","yes","no","yes","no","male",36,"no",NA,"yes",7,"primary",FALSE,TRUE
-"34848","viii","urban","son/daughter","male",7,1,"advanced","has certificate","yes","yes","yes","yes","no","no","yes","female",36,"no",NA,"no",NA,"primary",TRUE,TRUE
-"14051","viii","urban","son/daughter","female",14,9,"advanced","has certificate","yes","yes","yes","yes","no","yes","no","female",34,"no","yes","no",NA,"secondary",TRUE,TRUE
-"3996","iv","urban","son/daughter","female",8,4,"advanced","has certificate","yes","no","yes","no","no","no","no","male",38,NA,NA,"yes",2,"primary",FALSE,TRUE
-"10122","v","urban","son/daughter","male",7,1,"advanced","has certificate","yes","no","yes","yes","no","yes","no","female",48,"no","yes","yes",2,"primary",TRUE,TRUE
-"34547","vii","rural","son/daughter","female",7,1,"advanced","has certificate","yes","yes","yes","yes","no","no","no","female",36,"no",NA,"no",NA,"primary",TRUE,TRUE
-"9639","vi","rural","son/daughter","male",14,4,"advanced","has certificate","yes","no","no","no","no","no","no","female",52,NA,"no","yes",0,"primary",TRUE,TRUE
-"663","0","urban","son/daughter","female",13,8,"advanced","has certificate","yes","no","yes","yes","no","no","yes","female",36,"no",NA,"no",NA,"primary",TRUE,TRUE
-"16438","iii","urban","son/daughter","male",14,7,"advanced","has certificate","yes","yes","yes","no","no","no","no","female",30,"no",NA,"no",NA,"primary",TRUE,TRUE
-"27357","v","urban","son/daughter","male",8,2,"advanced","has certificate","yes","yes","yes","no","no","yes","no","female",38,"yes",NA,"no",NA,"primary",TRUE,TRUE
-"19889","ii","urban","son/daughter","female",14,8,"advanced","has certificate","yes","yes","yes","yes","no","no","no","male",43,"no",NA,"no",NA,"primary",FALSE,TRUE
-"35397","viii","urban","son/daughter","male",9,1,"advanced","neither certificate or registered","yes","no","yes","no","no","no","no","male",32,"yes",NA,"no",NA,"primary",FALSE,TRUE
-"40973","0","rural","son/daughter","female",7,2,"advanced","has certificate","yes","yes","yes","yes","no","no","no","male",37,"no",NA,"yes",0,"primary",FALSE,TRUE
-"11304","iv","urban","son/daughter","male",7,1,"advanced","has certificate","yes","no","yes","yes","no","yes","no","female",26,"no",NA,"no",NA,"primary",TRUE,TRUE
-"4916","iv","urban","son/daughter","male",6,0,"never attended","has certificate","yes","yes","yes","yes","no","no","no","male",38,"no",NA,"no",NA,"pre-school",FALSE,TRUE
-"2412","vi","urban","son/daughter","female",11,5,"advanced","has certificate","yes","no","yes","yes","no","no","no","male",35,"no","yes","no",NA,"primary",FALSE,TRUE
-"28605","v","rural","son/daughter","female",11,5,"advanced","registered","yes","yes","yes","yes","no","yes","no","male",53,NA,NA,"no",NA,"primary",FALSE,TRUE
-"33321","vii","urban","son/daughter","male",9,2,"advanced","neither certificate or registered","yes","yes","yes","no","no","no","no","male",42,"yes",NA,"no",NA,"primary",FALSE,TRUE
-"13164","v","urban","son/daughter","female",13,8,"advanced","has certificate","yes","no","yes","yes","no","no","no","female",36,"yes",NA,"no",NA,"primary",TRUE,TRUE
-"7210","vii","rural","son/daughter","female",12,4,"advanced","has certificate","yes","no","yes","yes","no","no","no","female",33,"yes","yes","no",NA,"primary",TRUE,TRUE
-"40681","0","urban","son/daughter","female",9,2,"advanced","has certificate","yes","no","yes","yes","no","yes","no","female",39,"no","yes","no",NA,"primary",TRUE,TRUE
-"8425","iii","urban","son/daughter","male",9,4,"advanced","has certificate","yes","no","yes","yes","no","no","no","female",38,"no",NA,"no",NA,"primary",TRUE,TRUE
-"28182","v","urban","son/daughter","male",11,2,"advanced","has certificate","yes","yes","yes","no","no","no","no","male",39,"yes",NA,"no",NA,"primary",FALSE,TRUE
-"2633","vi","urban","son/daughter","female",6,1,"advanced","has certificate","yes","no","yes","yes","no","no","yes","male",56,"no",NA,"no",NA,"primary",FALSE,TRUE
-"6231","iv","urban","son/daughter","female",10,6,"advanced","has certificate","yes","no","yes","yes","no","no","no","male",51,"no",NA,"no",NA,"primary",FALSE,TRUE
-"20115","ii","urban","son/daughter","female",11,5,"advanced","has certificate","yes","yes","yes","yes","yes","no","yes","male",43,"no",NA,"no",NA,"primary",FALSE,TRUE
-"9898","v","urban","son/daughter","female",14,9,"advanced","has certificate","yes","yes","yes","yes","no","no","yes","male",49,"no",NA,"no",NA,"secondary",FALSE,TRUE
-"31370","ii","urban","son/daughter","female",8,2,"repeating","has certificate","yes","no","yes","yes","no","yes","no","female",32,"no",NA,"no",NA,"primary",TRUE,TRUE
-"35399","viii","urban","son/daughter","female",6,0,"never attended","registered","yes","no","yes","no","no","no","no","male",32,"yes",NA,"no",NA,"pre-school",FALSE,TRUE
-"14454","viii","urban","son/daughter","male",13,9,"advanced","has certificate","yes","yes","yes","yes","no","no","no","male",50,"no",NA,"no",NA,"secondary",FALSE,TRUE
-"4385","iv","rural","son/daughter","male",10,2,"advanced","has certificate","yes","no","no","no","no","no","no","female",25,NA,"no","no",NA,"primary",TRUE,TRUE
-"33981","vii","urban","son/daughter","male",14,9,"advanced","has certificate","yes","yes","yes","yes","no","no","no","male",68,"no",NA,"no",NA,"secondary",FALSE,TRUE
-"4699","iv","urban","son/daughter","female",7,2,"advanced","has certificate","yes","no","yes","yes","no","yes","no","male",57,"no",NA,"no",NA,"primary",FALSE,TRUE
-"29289","viii","urban","son/daughter","male",10,5,"advanced","has certificate","yes","yes","yes","yes","no","yes","no","female",27,"no",NA,"no",NA,"primary",TRUE,TRUE
-"33562","vii","urban","son/daughter","female",12,5,"advanced","has certificate","yes","no","yes","yes","no","no","no","female",38,"no",NA,"no",NA,"primary",TRUE,TRUE
-"177","0","urban","son/daughter","male",9,4,"advanced","has certificate","yes","yes","yes","yes","no","no","no","male",56,"no",NA,"no",NA,"primary",FALSE,TRUE
-"32790","vii","urban","son/daughter","male",13,7,"advanced","has certificate","yes","yes","yes","yes","no","yes","no","male",62,"yes",NA,"no",NA,"primary",FALSE,TRUE
-"16756","iii","urban","son/daughter","female",8,3,"advanced","has certificate","yes","yes","yes","no","no","no","no","female",27,"yes",NA,"no",NA,"primary",TRUE,TRUE
-"15617","viii","rural","son/daughter","male",14,9,"advanced","has certificate","yes","yes","yes","no","no","no","no","female",37,"no",NA,"no",NA,"secondary",TRUE,TRUE
-"19683","i","rural","son/daughter","female",11,5,"advanced","has certificate","yes","no","yes","no","no","no","no","male",44,"no","yes","no",NA,"primary",FALSE,TRUE
-"11200","iv","urban","son/daughter","female",6,0,"never attended","has certificate","yes","no","no","no","no","yes","no","male",27,"yes","no","no",NA,"pre-school",FALSE,TRUE
-"17054","iii","rural","son/daughter","male",11,0,"never attended","has certificate","yes","no","yes","yes","no","yes","no","male",55,"no","yes","no",NA,NA,FALSE,TRUE
-"3136","vi","rural","son/daughter","female",12,5,"advanced","has certificate","yes","yes","yes","no","no","yes","no","male",39,"no","yes","no",NA,"primary",FALSE,TRUE
-"21959","iii","rural","son/daughter","male",13,4,"advanced","has certificate","yes","yes","yes","no","yes","yes","no","male",39,"no","no","no",NA,"primary",FALSE,TRUE
-"37050","0","urban","son/daughter","male",11,6,"advanced","has certificate","yes","no","yes","yes","no","yes","no","male",38,"no",NA,"no",NA,"primary",FALSE,TRUE
-"3004","vi","urban","son/daughter","female",13,6,"advanced","has certificate","yes","no","yes","no","no","no","no","female",50,"no","yes","yes",1,"primary",TRUE,TRUE
-"9190","iii","rural","son/daughter","female",9,4,"advanced","has certificate","yes","yes","yes","yes","no","yes","no","male",47,"no","no","no",NA,"primary",FALSE,TRUE
-"3035","vi","rural","son/daughter","female",7,2,"advanced","has certificate","yes","yes","yes","yes","no","yes","no","female",37,"no",NA,"no",NA,"primary",TRUE,TRUE
-"11431","iv","urban","son/daughter","female",8,1,"advanced","has certificate","yes","yes","yes","yes","no","yes","no","male",41,"yes",NA,"no",NA,"primary",FALSE,TRUE
-"10770","ii","rural","son/daughter","male",9,3,"repeating","has certificate","yes","yes","yes","no","no","yes","no","female",35,"no",NA,"no",NA,"primary",TRUE,TRUE
-"15861","viii","rural","son/daughter","male",14,7,"advanced","has certificate","yes","no","yes","no","no","no","no","female",36,"yes","no","no",NA,"primary",TRUE,TRUE
-"25066","i","rural","son/daughter","male",13,7,"advanced","has certificate","yes","yes","yes","yes","no","no","no","female",35,"no","no","no",NA,"primary",TRUE,TRUE
-"38168","0","urban","son/daughter","female",9,3,"advanced","has certificate","yes","yes","yes","yes","no","no","no","female",30,"no",NA,"no",NA,"primary",TRUE,TRUE
-"6363","iv","urban","son/daughter","female",11,5,"advanced","has certificate","yes","yes","yes","yes","no","yes","no","male",41,"no",NA,"no",NA,"primary",FALSE,TRUE
-"1852","vi","urban","son/daughter","male",12,7,"advanced","has certificate","yes","yes","yes","yes","no","yes","no","female",38,"no","yes","no",NA,"primary",TRUE,TRUE
-"1184","0","urban","son/daughter","male",13,8,"advanced","has certificate","yes","yes","yes","yes","no","no","no","male",52,"yes",NA,"no",NA,"primary",FALSE,TRUE
-"37155","0","urban","son/daughter","female",6,0,"never attended","has certificate","yes","no","yes","yes","no","no","yes","female",30,"no",NA,"no",NA,"pre-school",TRUE,TRUE
-"4640","iv","urban","son/daughter","female",13,8,"advanced","has certificate","yes","no","yes","yes","no","yes","no","female",54,"no",NA,"no",NA,"primary",TRUE,TRUE
-"39485","0","urban","son/daughter","female",7,2,"advanced","neither certificate or registered","yes","no","yes","no","no","no","no","male",65,"no",NA,"yes",12,"primary",FALSE,TRUE
-"27515","v","urban","son/daughter","male",13,7,"advanced","has certificate","yes","yes","yes","yes","no","yes","no","female",51,"no",NA,"no",NA,"primary",TRUE,TRUE
-"7675","iii","urban","son/daughter","male",8,2,"advanced","has certificate","yes","yes","yes","yes","no","no","no","male",53,"no",NA,"no",NA,"primary",FALSE,TRUE
-"30495","ii","urban","son/daughter","female",14,7,"advanced","has certificate","yes","no","yes","yes","no","no","yes","male",49,"no",NA,"no",NA,"primary",FALSE,TRUE
-"18831","i","urban","son/daughter","male",14,3,"advanced","has certificate","yes","yes","yes","yes","yes","no","no","female",41,"no",NA,"no",NA,"primary",TRUE,TRUE
-"39096","0","urban","son/daughter","male",11,5,"advanced","has certificate","yes","no","yes","no","no","no","no","male",35,"yes","yes","no",NA,"primary",FALSE,TRUE
-"18608","iv","rural","son/daughter","female",12,6,"advanced","neither certificate or registered","no","no","no","no","no","no","no","male",40,"no","yes","no",NA,"primary",FALSE,TRUE
-"9729","vi","rural","son/daughter","female",14,4,"advanced","has certificate","yes","no","no","no","no","no","no","female",35,"no",NA,"yes",0,"primary",TRUE,TRUE
-"9408","vi","urban","son/daughter","female",7,2,"advanced","has certificate","yes","yes","yes","yes","no","yes","no","male",42,"no",NA,"yes",3,"primary",FALSE,TRUE
-"10599","ii","urban","son/daughter","male",10,2,"advanced","has certificate","yes","no","yes","no","no","yes","no","male",36,"no","yes","no",NA,"primary",FALSE,TRUE
-"33068","vii","rural","son/daughter","female",7,2,"advanced","has certificate","yes","yes","yes","no","no","yes","no","male",36,"no",NA,"no",NA,"primary",FALSE,TRUE
-"10336","v","rural","son/daughter","female",9,3,"repeating","has certificate","yes","yes","yes","yes","no","yes","no","female",31,"no",NA,"no",NA,"primary",TRUE,TRUE
-"36403","v","rural","son/daughter","male",10,3,"advanced","has certificate","yes","no","yes","yes","no","yes","no","male",43,NA,"no","no",NA,"primary",FALSE,TRUE
-"2290","vi","urban","son/daughter","female",14,8,"advanced","has certificate","yes","no","yes","no","no","yes","no","male",43,"no","yes","yes",1,"primary",FALSE,TRUE
-"3511","iv","urban","son/daughter","male",12,6,"advanced","has certificate","yes","no","yes","yes","no","no","no","female",40,NA,NA,"no",NA,"primary",TRUE,TRUE
-"7324","vii","rural","son/daughter","male",11,5,"advanced","has certificate","no","yes","no","no","no","yes","no","male",38,"no","yes","yes",3,"primary",FALSE,TRUE
-"39439","0","urban","son/daughter","male",14,5,"dropout","has certificate","yes","no","yes","yes","no","no","no","male",42,"no",NA,"no",NA,"primary",FALSE,TRUE
-"34166","vii","urban","son/daughter","male",6,1,"advanced","has certificate","yes","yes","yes","yes","no","yes","no","male",47,"no","yes","no",NA,"primary",FALSE,TRUE
-"13841","v","urban","son/daughter","female",13,7,"advanced","has certificate","yes","no","yes","yes","no","no","yes","male",46,"no",NA,"no",NA,"primary",FALSE,TRUE
-"6857","vii","urban","son/daughter","female",9,4,"advanced","has certificate","yes","no","yes","yes","no","no","no","female",40,"no",NA,"no",NA,"primary",TRUE,TRUE
-"23506","i","urban","son/daughter","female",10,6,"advanced","has certificate","yes","yes","yes","yes","no","no","yes","male",49,"no",NA,"yes",12,"primary",FALSE,TRUE
-"5610","iv","urban","son/daughter","female",12,6,"advanced","has certificate","yes","no","yes","no","no","no","no","female",29,"yes",NA,"no",NA,"primary",TRUE,TRUE
-"28537","v","urban","son/daughter","male",14,6,"advanced","has certificate","yes","yes","yes","yes","no","yes","no","female",47,"no",NA,"no",NA,"primary",TRUE,TRUE
-"6159","iv","urban","son/daughter","male",13,8,"advanced","has certificate","yes","yes","yes","yes","no","yes","yes","male",52,"no","no","yes",5,"primary",FALSE,TRUE
-"32645","vii","urban","son/daughter","female",11,6,"advanced","has certificate","yes","no","yes","no","no","yes","no","male",36,"no",NA,"no",NA,"primary",FALSE,TRUE
-"26780","vi","rural","son/daughter","female",12,6,"advanced","has certificate","yes","yes","yes","yes","no","no","no","male",60,"no","no","no",NA,"primary",FALSE,TRUE
-"24656","i","rural","son/daughter","female",8,3,"advanced","has certificate","yes","no","yes","no","no","no","no","male",33,"no",NA,"no",NA,"primary",FALSE,TRUE
-"3557","iv","urban","son/daughter","female",9,4,"advanced","has certificate","yes","no","yes","yes","no","no","no","male",41,"no","no","yes",0,"primary",FALSE,TRUE
-"3544","iv","urban","son/daughter","male",9,3,"advanced","has certificate","yes","no","yes","yes","no","no","yes","male",44,"yes","no","no",NA,"primary",FALSE,TRUE
-"8424","iii","urban","son/daughter","male",14,8,"advanced","has certificate","yes","no","yes","yes","no","no","no","female",38,"no",NA,"no",NA,"primary",TRUE,TRUE
-"37389","0","urban","son/daughter","male",9,4,"advanced","has certificate","yes","yes","yes","yes","yes","yes","yes","male",47,"no",NA,"no",NA,"primary",FALSE,TRUE
-"37280","0","urban","son/daughter","female",6,0,"never attended","has certificate","yes","no","yes","yes","no","no","no","male",35,"no",NA,"no",NA,"pre-school",FALSE,TRUE
-"32114","ii","rural","son/daughter","female",8,2,"advanced","has certificate","yes","yes","yes","yes","no","yes","no","male",48,"no","no","no",NA,"primary",FALSE,TRUE
-"31881","ii","rural","son/daughter","male",11,7,"advanced","has certificate","yes","yes","yes","yes","no","no","yes","male",48,"no",NA,"no",NA,"primary",FALSE,TRUE
-"33291","vii","urban","son/daughter","male",11,5,"advanced","has certificate","yes","yes","yes","yes","no","no","no","female",32,"no","no","no",NA,"primary",TRUE,TRUE
-"20003","ii","urban","son/daughter","female",9,2,"advanced","has certificate","yes","yes","yes","yes","no","yes","no","female",40,"no",NA,"yes",998,"primary",TRUE,TRUE
-"9813","vi","rural","son/daughter","female",8,2,"advanced","has certificate","yes","no","no","no","no","no","no","male",28,"no",NA,"no",NA,"primary",FALSE,TRUE
-"23285","i","urban","son/daughter","male",13,6,"advanced","registered","yes","yes","yes","yes","no","no","yes","female",34,"no","no","no",NA,"primary",TRUE,TRUE
-"31422","ii","urban","son/daughter","male",11,5,"advanced","has certificate","yes","no","yes","no","no","no","no","male",50,"yes","no","no",NA,"primary",FALSE,TRUE
-"4392","iv","rural","son/daughter","male",10,4,"advanced","has certificate","yes","no","yes","no","no","no","no","male",32,NA,"yes","no",NA,"primary",FALSE,TRUE
-"39088","0","urban","son/daughter","female",12,4,"advanced","has certificate","yes","no","yes","yes","no","yes","no","female",42,"no","yes","no",NA,"primary",TRUE,TRUE
-"6635","iv","rural","son/daughter","male",6,0,"never attended","neither certificate or registered","no","no","no","no","no","no","no","male",33,"no","no","no",NA,NA,FALSE,TRUE
-"34036","vii","urban","son/daughter","male",13,6,"advanced","has certificate","yes","yes","yes","yes","no","yes","no","male",80,"no",NA,"yes",0,"primary",FALSE,TRUE
-"34853","viii","urban","son/daughter","male",9,4,"advanced","has certificate","yes","yes","yes","yes","yes","no","yes","male",37,"no",NA,"no",NA,"primary",FALSE,TRUE
-"13523","v","urban","son/daughter","female",12,2,"advanced","neither certificate or registered","yes","no","yes","no","no","yes","no","male",40,"no",NA,"no",NA,"primary",FALSE,TRUE
+"","hhid","region","urban_rural","relation_to_hh","sex","age","years_of_education","school_attendance_status","birth_certificate","has_electricity","has_radio","has_tv","has_fridge","has_bike","has_motorcycle","has_car","age_of_head","share_bathroom","water_treated","has_agroland","acres_agroland","education_level","female_head","child_of_head","hh_married_head","hh_together_head","hh_nevermarried_head","hh_div_wid_sep_head","oldest_child","oldest_male_child"
+"8668","      265273","iii","rural","son/daughter","male",7,1,"advanced","has certificate","yes","no","yes","no","no","no","no",47,"yes",NA,"no",NA,"primary",FALSE,TRUE,0,1,0,0,TRUE,TRUE
+"18812","      004087","i","urban","son/daughter","male",8,1,"advanced","has certificate","yes","no","yes","yes","no","no","yes",35,"no",NA,"yes",998,"primary",TRUE,TRUE,0,1,0,0,FALSE,FALSE
+"13264","      236460","v","urban","son/daughter","female",12,7,"advanced","has certificate","yes","yes","yes","yes","no","yes","no",37,"no",NA,"no",NA,"primary",TRUE,TRUE,0,1,0,0,TRUE,FALSE
+"40036","      067133","0","urban","son/daughter","male",9,1,"advanced","neither certificate or registered","yes","no","yes","no","no","yes","no",31,"yes",NA,"no",NA,"primary",FALSE,TRUE,0,0,0,1,TRUE,TRUE
+"20412","      222970","ii","rural","son/daughter","male",13,3,"advanced","has certificate","yes","yes","yes","no","no","no","no",53,"no","no","yes",1,"primary",FALSE,TRUE,0,1,0,0,TRUE,TRUE
+"2273","      039938","vi","urban","son/daughter","female",7,1,"advanced","has certificate","yes","no","no","yes","no","no","no",38,"no",NA,NA,NA,"primary",FALSE,TRUE,0,1,0,0,FALSE,FALSE
+"35903","      116953","0","urban","son/daughter","female",12,4,"advanced","has certificate","yes","yes","yes","yes","no","no","no",34,"yes","no","no",NA,"primary",TRUE,TRUE,0,1,0,0,TRUE,FALSE
+"30017","      201068","ii","urban","son/daughter","female",12,5,"left school 2+ years ago","neither certificate or registered","yes","no","yes","no","no","no","no",32,"no","no","no",NA,"primary",TRUE,TRUE,0,0,0,1,TRUE,FALSE
+"36029","      081060","0","rural","son/daughter","female",8,3,"advanced","has certificate","yes","yes","yes","yes","no","yes","no",58,"no","no","yes",998,"primary",FALSE,TRUE,0,1,0,0,TRUE,FALSE
+"5151","      206762","iv","urban","son/daughter","male",11,2,"advanced","has certificate","yes","no","yes","no","no","no","no",42,"yes","yes","no",NA,"primary",TRUE,TRUE,0,0,0,1,FALSE,FALSE
+"11032","      282376","ii","rural","son/daughter","male",11,5,"advanced","has certificate","yes","yes","yes","yes","no","yes","no",42,"no","no","no",NA,"primary",FALSE,TRUE,0,1,0,0,FALSE,FALSE
+"2755","      123330","vi","urban","son/daughter","female",12,5,"advanced","has certificate","yes","yes","yes","yes","no","no","no",37,"no",NA,"yes",1,"primary",FALSE,TRUE,0,0,0,1,TRUE,FALSE
+"15395","      294845","viii","rural","son/daughter","male",10,5,"advanced","has certificate","yes","yes","yes","yes","no","yes","no",39,"no",NA,"no",NA,"primary",FALSE,TRUE,1,0,0,0,TRUE,TRUE
+"34860","      222189","viii","urban","son/daughter","male",11,5,"advanced","has certificate","yes","yes","yes","yes","yes","no","yes",47,"no",NA,"no",NA,"primary",FALSE,TRUE,1,0,0,0,TRUE,TRUE
+"14927","      290439","viii","urban","son/daughter","male",8,1,"advanced","has certificate","yes","yes","yes","yes","no","yes","no",34,"no",NA,"no",NA,"primary",TRUE,TRUE,0,0,0,1,FALSE,FALSE
+"232","      028850","0","urban","son/daughter","female",10,5,"advanced","has certificate","yes","yes","yes","yes","no","no","no",42,"no",NA,"no",NA,"primary",FALSE,TRUE,0,1,0,0,FALSE,FALSE
+"9605","      326483","vi","urban","son/daughter","female",10,6,"advanced","has certificate","yes","yes","yes","no","no","no","no",34,"no",NA,"no",NA,"primary",FALSE,TRUE,0,0,0,1,FALSE,FALSE
+"6203","      151028","iv","urban","son/daughter","female",10,3,"advanced","has certificate","yes","yes","yes","no","no","no","no",47,NA,"no","yes",0,"primary",FALSE,TRUE,0,0,0,1,FALSE,FALSE
+"7411","      107734","iii","urban","son/daughter","male",13,8,"advanced","has certificate","yes","yes","yes","yes","no","yes","yes",48,"no",NA,"yes",3,"primary",FALSE,TRUE,0,1,0,0,TRUE,TRUE
+"4311","      024313","iv","rural","son/daughter","female",14,5,"advanced","has certificate","yes","no","no","no","no","no","no",31,NA,"no","no",NA,"primary",TRUE,TRUE,0,0,0,1,TRUE,FALSE
+"35623","      087820","viii","rural","son/daughter","male",13,5,"repeating","has certificate","yes","yes","yes","yes","yes","yes","no",38,"no",NA,"no",NA,"primary",FALSE,TRUE,0,1,0,0,TRUE,TRUE
+"24943","      016329","i","rural","son/daughter","male",6,0,"never attended","registered","yes","no","no","no","no","no","no",24,NA,NA,"no",NA,"pre-school",TRUE,TRUE,0,0,0,1,FALSE,FALSE
+"25271","      239838","vi","urban","son/daughter","male",7,1,"advanced","has certificate","yes","yes","yes","yes","no","yes","no",40,"no",NA,"no",NA,"primary",FALSE,TRUE,0,1,0,0,TRUE,TRUE
+"20715","      009985","ii","rural","son/daughter","male",6,1,"advanced","has certificate","yes","yes","yes","yes","no","yes","no",33,"no",NA,"no",NA,"primary",TRUE,TRUE,0,1,0,0,FALSE,FALSE
+"40522","      182188","0","urban","son/daughter","male",13,5,"advanced","has certificate","yes","yes","yes","yes","no","no","no",29,"no",NA,"no",NA,"primary",TRUE,TRUE,1,0,0,0,TRUE,TRUE
+"12436","      2055 2","v","urban","son/daughter","female",11,6,"advanced","has certificate","yes","yes","yes","yes","no","no","no",36,"no",NA,"no",NA,"primary",FALSE,TRUE,0,1,0,0,TRUE,FALSE
+"18645","      0141 7","iv","rural","son/daughter","male",7,0,"repeating","neither certificate or registered","no","no","no","no","no","yes","no",33,"no","yes","yes",0,"primary",FALSE,TRUE,0,1,0,0,FALSE,FALSE
+"31001","      180391","ii","urban","son/daughter","female",9,3,"advanced","has certificate","yes","yes","yes","yes","no","no","no",30,"no",NA,"no",NA,"primary",TRUE,TRUE,0,1,0,0,FALSE,FALSE
+"16780","      008141","iii","urban","son/daughter","female",14,6,"advanced","has certificate","yes","yes","yes","yes","no","no","no",37,"no",NA,"no",NA,"primary",TRUE,TRUE,0,0,0,1,TRUE,FALSE
+"22799","      228344","i","urban","son/daughter","male",11,3,"advanced","has certificate","yes","no","yes","yes","no","no","no",42,"no",NA,"no",NA,"primary",FALSE,TRUE,0,1,0,0,FALSE,FALSE
+"13232","      013518","v","urban","son/daughter","female",9,3,"advanced","has certificate","yes","no","no","yes","yes","yes","no",43,"no",NA,"no",NA,"primary",FALSE,TRUE,1,0,0,0,FALSE,FALSE
+"38960","      135780","0","urban","son/daughter","female",7,2,"advanced","has certificate","yes","yes","yes","yes","no","no","no",38,"no",NA,"no",NA,"primary",FALSE,TRUE,1,0,0,0,FALSE,FALSE
+"36615","      179567","i","urban","son/daughter","female",13,7,"advanced","has certificate","yes","no","no","no","no","no","no",39,"yes",NA,"no",NA,"primary",TRUE,TRUE,0,0,0,1,TRUE,FALSE
+"40430","      316427","0","urban","son/daughter","female",10,2,"advanced","neither certificate or registered","yes","yes","yes","yes","no","yes","no",37,"no",NA,"no",NA,"primary",FALSE,TRUE,0,1,0,0,TRUE,FALSE
+"38171","      163538","0","urban","son/daughter","female",8,3,"advanced","has certificate","yes","yes","yes","yes","no","no","no",32,"no","yes","no",NA,"primary",TRUE,TRUE,0,1,0,0,TRUE,FALSE
+"10348","      112289","v","rural","son/daughter","male",14,3,"advanced","has certificate","yes","yes","yes","yes","no","no","no",41,NA,"yes","no",NA,"primary",TRUE,TRUE,0,0,0,1,TRUE,TRUE
+"21212","      276137","iii","rural","son/daughter","male",10,5,"advanced","has certificate","yes","no","yes","yes","no","no","no",58,"no","yes","no",NA,"primary",FALSE,TRUE,0,1,0,0,TRUE,TRUE
+"18100","      150085","vii","rural","son/daughter","female",8,1,"entered school","has certificate","yes","yes","yes","yes","no","yes","no",45,"no",NA,"yes",1,"primary",FALSE,TRUE,0,1,0,0,FALSE,FALSE
+"21815","      070886","iii","urban","son/daughter","male",8,3,"advanced","has certificate","yes","no","yes","yes","no","yes","no",34,"no",NA,"no",NA,"primary",FALSE,TRUE,0,1,0,0,FALSE,FALSE
+"25031","      263841","i","rural","son/daughter","male",10,4,"advanced","has certificate","yes","yes","yes","yes","no","yes","no",33,"no",NA,"no",NA,"primary",FALSE,TRUE,1,0,0,0,FALSE,FALSE
+"14387","      209299","viii","urban","son/daughter","female",8,2,"advanced","has certificate","yes","no","yes","no","no","no","no",42,"no","no","no",NA,"primary",TRUE,TRUE,0,0,0,1,TRUE,FALSE
+"4598","      124265","iv","urban","son/daughter","male",6,1,"advanced","has certificate","yes","yes","yes","yes","no","no","no",30,"no","yes","no",NA,"primary",TRUE,TRUE,0,0,0,1,FALSE,FALSE
+"9134","      020779","iii","rural","son/daughter","male",10,4,"advanced","has certificate","yes","yes","yes","no","no","yes","no",33,"no",NA,"no",NA,"primary",FALSE,TRUE,0,1,0,0,TRUE,TRUE
+"148","      158825","0","urban","son/daughter","female",7,2,"advanced","has certificate","yes","no","yes","yes","no","yes","no",32,"no",NA,"no",NA,"primary",TRUE,TRUE,0,0,0,1,FALSE,FALSE
+"9604","      326483","vi","urban","son/daughter","male",12,5,"advanced","has certificate","yes","yes","yes","no","no","no","no",34,"no",NA,"no",NA,"primary",FALSE,TRUE,0,0,0,1,TRUE,TRUE
+"8384","      015636","iii","urban","son/daughter","male",12,5,"advanced","has certificate","yes","no","yes","no","no","yes","no",30,"no",NA,"no",NA,"primary",FALSE,TRUE,0,1,0,0,TRUE,TRUE
+"15303","      024534","viii","rural","son/daughter","female",10,5,"advanced","has certificate","yes","yes","yes","yes","no","yes","no",36,"no",NA,"yes",7,"primary",FALSE,TRUE,0,1,0,0,FALSE,FALSE
+"34848","      222128","viii","urban","son/daughter","male",7,1,"advanced","has certificate","yes","yes","yes","yes","no","no","yes",36,"no",NA,"no",NA,"primary",TRUE,TRUE,1,0,0,0,TRUE,TRUE
+"14051","      026458","viii","urban","son/daughter","female",14,9,"advanced","has certificate","yes","yes","yes","yes","no","yes","no",34,"no","yes","no",NA,"secondary",TRUE,TRUE,1,0,0,0,TRUE,FALSE
+"3996","      237986","iv","urban","son/daughter","female",8,4,"advanced","has certificate","yes","no","yes","no","no","no","no",38,NA,NA,"yes",2,"primary",FALSE,TRUE,0,1,0,0,TRUE,FALSE
+"10122","      134764","v","urban","son/daughter","male",7,1,"advanced","has certificate","yes","no","yes","yes","no","yes","no",48,"no","yes","yes",2,"primary",TRUE,TRUE,1,0,0,0,FALSE,FALSE
+"34547","      115989","vii","rural","son/daughter","female",7,1,"advanced","has certificate","yes","yes","yes","yes","no","no","no",36,"no",NA,"no",NA,"primary",TRUE,TRUE,0,0,0,1,FALSE,FALSE
+"9639","      082458","vi","rural","son/daughter","male",14,4,"advanced","has certificate","yes","no","no","no","no","no","no",52,NA,"no","yes",0,"primary",TRUE,TRUE,0,0,0,1,TRUE,TRUE
+"663","      234220","0","urban","son/daughter","female",13,8,"advanced","has certificate","yes","no","yes","yes","no","no","yes",36,"no",NA,"no",NA,"primary",TRUE,TRUE,0,0,0,1,TRUE,FALSE
+"16438","      123991","iii","urban","son/daughter","male",14,7,"advanced","has certificate","yes","yes","yes","no","no","no","no",30,"no",NA,"no",NA,"primary",TRUE,TRUE,0,0,0,1,TRUE,TRUE
+"27357","      175657","v","urban","son/daughter","male",8,2,"advanced","has certificate","yes","yes","yes","no","no","yes","no",38,"yes",NA,"no",NA,"primary",TRUE,TRUE,0,1,0,0,TRUE,TRUE
+"19889","      256789","ii","urban","son/daughter","female",14,8,"advanced","has certificate","yes","yes","yes","yes","no","no","no",43,"no",NA,"no",NA,"primary",FALSE,TRUE,1,0,0,0,TRUE,FALSE
+"35397","      128419","viii","urban","son/daughter","male",9,1,"advanced","neither certificate or registered","yes","no","yes","no","no","no","no",32,"yes",NA,"no",NA,"primary",FALSE,TRUE,0,1,0,0,FALSE,FALSE
+"41028","      220044","0","rural","son/daughter","male",13,9,"advanced","has certificate","yes","no","yes","yes","no","no","no",54,"no",NA,"no",NA,"secondary",TRUE,TRUE,0,0,0,1,TRUE,TRUE
+"11304","      209921","iv","urban","son/daughter","male",7,1,"advanced","has certificate","yes","no","yes","yes","no","yes","no",26,"no",NA,"no",NA,"primary",TRUE,TRUE,0,1,0,0,FALSE,FALSE
+"4916","      019491","iv","urban","son/daughter","male",6,0,"never attended","has certificate","yes","yes","yes","yes","no","no","no",38,"no",NA,"no",NA,"pre-school",FALSE,TRUE,1,0,0,0,FALSE,FALSE
+"2412","      286867","vi","urban","son/daughter","female",11,5,"advanced","has certificate","yes","no","yes","yes","no","no","no",35,"no","yes","no",NA,"primary",FALSE,TRUE,0,1,0,0,TRUE,FALSE
+"28605","      289730","v","rural","son/daughter","female",11,5,"advanced","registered","yes","yes","yes","yes","no","yes","no",53,NA,NA,"no",NA,"primary",FALSE,TRUE,0,1,0,0,FALSE,FALSE
+"33321","      225910","vii","urban","son/daughter","male",9,2,"advanced","neither certificate or registered","yes","yes","yes","no","no","no","no",42,"yes",NA,"no",NA,"primary",FALSE,TRUE,0,1,0,0,TRUE,TRUE
+"13164","      089452","v","urban","son/daughter","female",13,8,"advanced","has certificate","yes","no","yes","yes","no","no","no",36,"yes",NA,"no",NA,"primary",TRUE,TRUE,0,1,0,0,TRUE,FALSE
+"7210","      280579","vii","rural","son/daughter","female",12,4,"advanced","has certificate","yes","no","yes","yes","no","no","no",33,"yes","yes","no",NA,"primary",TRUE,TRUE,0,0,0,1,TRUE,FALSE
+"40681","      166040","0","urban","son/daughter","female",9,2,"advanced","has certificate","yes","no","yes","yes","no","yes","no",39,"no","yes","no",NA,"primary",TRUE,TRUE,0,0,0,1,FALSE,FALSE
+"8425","      258838","iii","urban","son/daughter","male",9,4,"advanced","has certificate","yes","no","yes","yes","no","no","no",38,"no",NA,"no",NA,"primary",TRUE,TRUE,1,0,0,0,FALSE,FALSE
+"28182","      232063","v","urban","son/daughter","male",11,2,"advanced","has certificate","yes","yes","yes","no","no","no","no",39,"yes",NA,"no",NA,"primary",FALSE,TRUE,0,0,0,1,FALSE,FALSE
+"2633","      252042","vi","urban","son/daughter","female",6,1,"advanced","has certificate","yes","no","yes","yes","no","no","yes",56,"no",NA,"no",NA,"primary",FALSE,TRUE,0,1,0,0,TRUE,FALSE
+"6231","      134299","iv","urban","son/daughter","female",10,6,"advanced","has certificate","yes","no","yes","yes","no","no","no",51,"no",NA,"no",NA,"primary",FALSE,TRUE,1,0,0,0,TRUE,FALSE
+"20115","      089238","ii","urban","son/daughter","female",11,5,"advanced","has certificate","yes","yes","yes","yes","yes","no","yes",43,"no",NA,"no",NA,"primary",FALSE,TRUE,1,0,0,0,FALSE,FALSE
+"9898","      012848","v","urban","son/daughter","female",14,9,"advanced","has certificate","yes","yes","yes","yes","no","no","yes",49,"no",NA,"no",NA,"secondary",FALSE,TRUE,0,0,0,1,TRUE,FALSE
+"31370","      158596","ii","urban","son/daughter","female",8,2,"repeating","has certificate","yes","no","yes","yes","no","yes","no",32,"no",NA,"no",NA,"primary",TRUE,TRUE,1,0,0,0,FALSE,FALSE
+"35399","      128419","viii","urban","son/daughter","female",6,0,"never attended","registered","yes","no","yes","no","no","no","no",32,"yes",NA,"no",NA,"pre-school",FALSE,TRUE,0,1,0,0,FALSE,FALSE
+"14454","      207699","viii","urban","son/daughter","male",13,9,"advanced","has certificate","yes","yes","yes","yes","no","no","no",50,"no",NA,"no",NA,"secondary",FALSE,TRUE,1,0,0,0,TRUE,TRUE
+"4385","      024363","iv","rural","son/daughter","male",10,2,"advanced","has certificate","yes","no","no","no","no","no","no",25,NA,"no","no",NA,"primary",TRUE,TRUE,0,0,0,1,TRUE,TRUE
+"33981","      125172","vii","urban","son/daughter","male",14,9,"advanced","has certificate","yes","yes","yes","yes","no","no","no",68,"no",NA,"no",NA,"secondary",FALSE,TRUE,1,0,0,0,TRUE,TRUE
+"4699","      164933","iv","urban","son/daughter","female",7,2,"advanced","has certificate","yes","no","yes","yes","no","yes","no",57,"no",NA,"no",NA,"primary",FALSE,TRUE,0,1,0,0,TRUE,FALSE
+"29289","      261739","viii","urban","son/daughter","male",10,5,"advanced","has certificate","yes","yes","yes","yes","no","yes","no",27,"no",NA,"no",NA,"primary",TRUE,TRUE,0,0,0,1,TRUE,TRUE
+"33562","      215092","vii","urban","son/daughter","female",12,5,"advanced","has certificate","yes","no","yes","yes","no","no","no",38,"no",NA,"no",NA,"primary",TRUE,TRUE,0,0,0,1,TRUE,FALSE
+"177","      158835","0","urban","son/daughter","male",9,4,"advanced","has certificate","yes","yes","yes","yes","no","no","no",56,"no",NA,"no",NA,"primary",FALSE,TRUE,0,1,0,0,TRUE,TRUE
+"32790","      150423","vii","urban","son/daughter","male",13,7,"advanced","has certificate","yes","yes","yes","yes","no","yes","no",62,"yes",NA,"no",NA,"primary",FALSE,TRUE,0,1,0,0,TRUE,TRUE
+"16756","      008146","iii","urban","son/daughter","female",8,3,"advanced","has certificate","yes","yes","yes","no","no","no","no",27,"yes",NA,"no",NA,"primary",TRUE,TRUE,0,1,0,0,TRUE,FALSE
+"15617","      2987 6","viii","rural","son/daughter","male",14,9,"advanced","has certificate","yes","yes","yes","no","no","no","no",37,"no",NA,"no",NA,"secondary",TRUE,TRUE,0,0,0,1,TRUE,TRUE
+"19683","      298229","i","rural","son/daughter","female",11,5,"advanced","has certificate","yes","no","yes","no","no","no","no",44,"no","yes","no",NA,"primary",FALSE,TRUE,1,0,0,0,FALSE,FALSE
+"11200","      201360","iv","urban","son/daughter","female",6,0,"never attended","has certificate","yes","no","no","no","no","yes","no",27,"yes","no","no",NA,"pre-school",FALSE,TRUE,0,1,0,0,TRUE,FALSE
+"17054","      052868","iii","rural","son/daughter","male",11,0,"never attended","has certificate","yes","no","yes","yes","no","yes","no",55,"no","yes","no",NA,NA,FALSE,TRUE,0,1,0,0,TRUE,TRUE
+"3136","      214075","vi","rural","son/daughter","female",12,5,"advanced","has certificate","yes","yes","yes","no","no","yes","no",39,"no","yes","no",NA,"primary",FALSE,TRUE,0,1,0,0,TRUE,FALSE
+"21959","      242511","iii","rural","son/daughter","male",13,4,"advanced","has certificate","yes","yes","yes","no","yes","yes","no",39,"no","no","no",NA,"primary",FALSE,TRUE,0,0,0,1,FALSE,FALSE
+"37050","      076499","0","urban","son/daughter","male",11,6,"advanced","has certificate","yes","no","yes","yes","no","yes","no",38,"no",NA,"no",NA,"primary",FALSE,TRUE,0,1,0,0,FALSE,FALSE
+"3004","      058948","vi","urban","son/daughter","female",13,6,"advanced","has certificate","yes","no","yes","no","no","no","no",50,"no","yes","yes",1,"primary",TRUE,TRUE,0,1,0,0,FALSE,FALSE
+"9190","      255119","iii","rural","son/daughter","female",9,4,"advanced","has certificate","yes","yes","yes","yes","no","yes","no",47,"no","no","no",NA,"primary",FALSE,TRUE,0,1,0,0,FALSE,FALSE
+"3035","      218680","vi","rural","son/daughter","female",7,2,"advanced","has certificate","yes","yes","yes","yes","no","yes","no",37,"no",NA,"no",NA,"primary",TRUE,TRUE,0,1,0,0,FALSE,FALSE
+"11431","      037659","iv","urban","son/daughter","female",8,1,"advanced","has certificate","yes","yes","yes","yes","no","yes","no",41,"yes",NA,"no",NA,"primary",FALSE,TRUE,0,1,0,0,FALSE,FALSE
+"10770","      206894","ii","rural","son/daughter","male",9,3,"repeating","has certificate","yes","yes","yes","no","no","yes","no",35,"no",NA,"no",NA,"primary",TRUE,TRUE,0,1,0,0,FALSE,FALSE
+"15861","      008585","viii","rural","son/daughter","male",14,7,"advanced","has certificate","yes","no","yes","no","no","no","no",36,"yes","no","no",NA,"primary",TRUE,TRUE,0,0,0,1,TRUE,TRUE
+"25066","      181459","i","rural","son/daughter","male",13,7,"advanced","has certificate","yes","yes","yes","yes","no","no","no",35,"no","no","no",NA,"primary",TRUE,TRUE,0,0,0,1,TRUE,TRUE
+"38168","      163534","0","urban","son/daughter","female",9,3,"advanced","has certificate","yes","yes","yes","yes","no","no","no",30,"no",NA,"no",NA,"primary",TRUE,TRUE,0,1,0,0,TRUE,FALSE
+"6363","      087497","iv","urban","son/daughter","female",11,5,"advanced","has certificate","yes","yes","yes","yes","no","yes","no",41,"no",NA,"no",NA,"primary",FALSE,TRUE,0,1,0,0,FALSE,FALSE
+"1852","      219483","vi","urban","son/daughter","male",12,7,"advanced","has certificate","yes","yes","yes","yes","no","yes","no",38,"no","yes","no",NA,"primary",TRUE,TRUE,0,1,0,0,TRUE,TRUE
+"1184","      086497","0","urban","son/daughter","male",13,8,"advanced","has certificate","yes","yes","yes","yes","no","no","no",52,"yes",NA,"no",NA,"primary",FALSE,TRUE,1,0,0,0,TRUE,TRUE
+"37155","      282088","0","urban","son/daughter","female",6,0,"never attended","has certificate","yes","no","yes","yes","no","no","yes",30,"no",NA,"no",NA,"pre-school",TRUE,TRUE,1,0,0,0,TRUE,FALSE
+"4640","      1242 1","iv","urban","son/daughter","female",13,8,"advanced","has certificate","yes","no","yes","yes","no","yes","no",54,"no",NA,"no",NA,"primary",TRUE,TRUE,1,0,0,0,TRUE,FALSE
+"39485","      297149","0","urban","son/daughter","female",7,2,"advanced","neither certificate or registered","yes","no","yes","no","no","no","no",65,"no",NA,"yes",12,"primary",FALSE,TRUE,0,1,0,0,FALSE,FALSE
+"27515","      100827","v","urban","son/daughter","male",13,7,"advanced","has certificate","yes","yes","yes","yes","no","yes","no",51,"no",NA,"no",NA,"primary",TRUE,TRUE,0,0,0,1,TRUE,TRUE
+"7675","      031359","iii","urban","son/daughter","male",8,2,"advanced","has certificate","yes","yes","yes","yes","no","no","no",53,"no",NA,"no",NA,"primary",FALSE,TRUE,0,1,0,0,TRUE,TRUE
+"30495","      197898","ii","urban","son/daughter","female",14,7,"advanced","has certificate","yes","no","yes","yes","no","no","yes",49,"no",NA,"no",NA,"primary",FALSE,TRUE,0,1,0,0,TRUE,FALSE
+"18831","      193670","i","urban","son/daughter","male",14,3,"advanced","has certificate","yes","yes","yes","yes","yes","no","no",41,"no",NA,"no",NA,"primary",TRUE,TRUE,0,0,0,1,TRUE,TRUE
+"39096","      274299","0","urban","son/daughter","male",11,5,"advanced","has certificate","yes","no","yes","no","no","no","no",35,"yes","yes","no",NA,"primary",FALSE,TRUE,0,1,0,0,TRUE,TRUE
+"18608","      014132","iv","rural","son/daughter","female",12,6,"advanced","neither certificate or registered","no","no","no","no","no","no","no",40,"no","yes","no",NA,"primary",FALSE,TRUE,0,1,0,0,TRUE,FALSE
+"9729","      320146","vi","rural","son/daughter","female",14,4,"advanced","has certificate","yes","no","no","no","no","no","no",35,"no",NA,"yes",0,"primary",TRUE,TRUE,0,1,0,0,TRUE,FALSE
+"9408","      291568","vi","urban","son/daughter","female",7,2,"advanced","has certificate","yes","yes","yes","yes","no","yes","no",42,"no",NA,"yes",3,"primary",FALSE,TRUE,0,1,0,0,FALSE,FALSE
+"10599","      254423","ii","urban","son/daughter","male",10,2,"advanced","has certificate","yes","no","yes","no","no","yes","no",36,"no","yes","no",NA,"primary",FALSE,TRUE,0,1,0,0,TRUE,TRUE
+"33068","      328082","vii","rural","son/daughter","female",7,2,"advanced","has certificate","yes","yes","yes","no","no","yes","no",36,"no",NA,"no",NA,"primary",FALSE,TRUE,1,0,0,0,FALSE,FALSE
+"10336","      112212","v","rural","son/daughter","female",9,3,"repeating","has certificate","yes","yes","yes","yes","no","yes","no",31,"no",NA,"no",NA,"primary",TRUE,TRUE,0,1,0,0,FALSE,FALSE
+"36403","      024084","v","rural","son/daughter","male",10,3,"advanced","has certificate","yes","no","yes","yes","no","yes","no",43,NA,"no","no",NA,"primary",FALSE,TRUE,1,0,0,0,FALSE,FALSE
+"2290","      039929","vi","urban","son/daughter","female",14,8,"advanced","has certificate","yes","no","yes","no","no","yes","no",43,"no","yes","yes",1,"primary",FALSE,TRUE,0,1,0,0,TRUE,FALSE
+"3511","      248716","iv","urban","son/daughter","male",12,6,"advanced","has certificate","yes","no","yes","yes","no","no","no",40,NA,NA,"no",NA,"primary",TRUE,TRUE,0,1,0,0,TRUE,TRUE
+"7324","      103879","vii","rural","son/daughter","male",11,5,"advanced","has certificate","no","yes","no","no","no","yes","no",38,"no","yes","yes",3,"primary",FALSE,TRUE,0,1,0,0,TRUE,TRUE
+"39439","      195418","0","urban","son/daughter","male",14,5,"dropout","has certificate","yes","no","yes","yes","no","no","no",42,"no",NA,"no",NA,"primary",FALSE,TRUE,0,1,0,0,TRUE,TRUE
+"34166","      149071","vii","urban","son/daughter","male",6,1,"advanced","has certificate","yes","yes","yes","yes","no","yes","no",47,"no","yes","no",NA,"primary",FALSE,TRUE,0,0,0,1,TRUE,TRUE
+"13841","      190010","v","urban","son/daughter","female",13,7,"advanced","has certificate","yes","no","yes","yes","no","no","yes",46,"no",NA,"no",NA,"primary",FALSE,TRUE,0,1,0,0,TRUE,FALSE
+"6857","      270460","vii","urban","son/daughter","female",9,4,"advanced","has certificate","yes","no","yes","yes","no","no","no",40,"no",NA,"no",NA,"primary",TRUE,TRUE,0,0,0,1,FALSE,FALSE
+"23506","      229645","i","urban","son/daughter","female",10,6,"advanced","has certificate","yes","yes","yes","yes","no","no","yes",49,"no",NA,"yes",12,"primary",FALSE,TRUE,1,0,0,0,TRUE,FALSE
+"5610","      289662","iv","urban","son/daughter","female",12,6,"advanced","has certificate","yes","no","yes","no","no","no","no",29,"yes",NA,"no",NA,"primary",TRUE,TRUE,0,0,1,0,TRUE,FALSE
+"28537","      261953","v","urban","son/daughter","male",14,6,"advanced","has certificate","yes","yes","yes","yes","no","yes","no",47,"no",NA,"no",NA,"primary",TRUE,TRUE,0,1,0,0,TRUE,TRUE
+"6159","      151072","iv","urban","son/daughter","male",13,8,"advanced","has certificate","yes","yes","yes","yes","no","yes","yes",52,"no","no","yes",5,"primary",FALSE,TRUE,0,1,0,0,TRUE,TRUE
+"4378","      024359","iv","rural","son/daughter","male",12,5,"advanced","has certificate","yes","yes","no","no","no","yes","no",38,NA,"no","yes",0,"primary",FALSE,TRUE,0,1,0,0,FALSE,FALSE
+"26780","      021644","vi","rural","son/daughter","female",12,6,"advanced","has certificate","yes","yes","yes","yes","no","no","no",60,"no","no","no",NA,"primary",FALSE,TRUE,0,1,0,0,TRUE,FALSE
+"24656","      084472","i","rural","son/daughter","female",8,3,"advanced","has certificate","yes","no","yes","no","no","no","no",33,"no",NA,"no",NA,"primary",FALSE,TRUE,0,1,0,0,FALSE,FALSE
+"3557","      132714","iv","urban","son/daughter","female",9,4,"advanced","has certificate","yes","no","yes","yes","no","no","no",41,"no","no","yes",0,"primary",FALSE,TRUE,1,0,0,0,FALSE,FALSE
+"3544","      248782","iv","urban","son/daughter","male",9,3,"advanced","has certificate","yes","no","yes","yes","no","no","yes",44,"yes","no","no",NA,"primary",FALSE,TRUE,0,1,0,0,TRUE,TRUE
+"8424","      258838","iii","urban","son/daughter","male",14,8,"advanced","has certificate","yes","no","yes","yes","no","no","no",38,"no",NA,"no",NA,"primary",TRUE,TRUE,1,0,0,0,TRUE,TRUE
+"37389","      052381","0","urban","son/daughter","male",9,4,"advanced","has certificate","yes","yes","yes","yes","yes","yes","yes",47,"no",NA,"no",NA,"primary",FALSE,TRUE,0,1,0,0,TRUE,TRUE
+"37280","      283737","0","urban","son/daughter","female",6,0,"never attended","has certificate","yes","no","yes","yes","no","no","no",35,"no",NA,"no",NA,"pre-school",FALSE,TRUE,1,0,0,0,FALSE,FALSE
+"32114","      193368","ii","rural","son/daughter","female",8,2,"advanced","has certificate","yes","yes","yes","yes","no","yes","no",48,"no","no","no",NA,"primary",FALSE,TRUE,0,1,0,0,TRUE,FALSE
+"31881","      166997","ii","rural","son/daughter","male",11,7,"advanced","has certificate","yes","yes","yes","yes","no","no","yes",48,"no",NA,"no",NA,"primary",FALSE,TRUE,1,0,0,0,TRUE,TRUE
+"33291","      225966","vii","urban","son/daughter","male",11,5,"advanced","has certificate","yes","yes","yes","yes","no","no","no",32,"no","no","no",NA,"primary",TRUE,TRUE,0,0,0,1,TRUE,TRUE
+"20003","      265643","ii","urban","son/daughter","female",9,2,"advanced","has certificate","yes","yes","yes","yes","no","yes","no",40,"no",NA,"yes",998,"primary",TRUE,TRUE,0,1,0,0,FALSE,FALSE
+"9813","      141999","vi","rural","son/daughter","female",8,2,"advanced","has certificate","yes","no","no","no","no","no","no",28,"no",NA,"no",NA,"primary",FALSE,TRUE,0,1,0,0,TRUE,FALSE
+"23285","      185332","i","urban","son/daughter","male",13,6,"advanced","registered","yes","yes","yes","yes","no","no","yes",34,"no","no","no",NA,"primary",TRUE,TRUE,0,1,0,0,FALSE,FALSE
+"31422","      001093","ii","urban","son/daughter","male",11,5,"advanced","has certificate","yes","no","yes","no","no","no","no",50,"yes","no","no",NA,"primary",FALSE,TRUE,0,0,0,1,TRUE,TRUE
+"4392","      319223","iv","rural","son/daughter","male",10,4,"advanced","has certificate","yes","no","yes","no","no","no","no",32,NA,"yes","no",NA,"primary",FALSE,TRUE,0,1,0,0,TRUE,TRUE
+"39088","      274234","0","urban","son/daughter","female",12,4,"advanced","has certificate","yes","no","yes","yes","no","yes","no",42,"no","yes","no",NA,"primary",TRUE,TRUE,0,1,0,0,FALSE,FALSE
+"6635","      271476","iv","rural","son/daughter","male",6,0,"never attended","neither certificate or registered","no","no","no","no","no","no","no",33,"no","no","no",NA,NA,FALSE,TRUE,0,0,0,1,TRUE,TRUE
+"34036","      132011","vii","urban","son/daughter","male",13,6,"advanced","has certificate","yes","yes","yes","yes","no","yes","no",80,"no",NA,"yes",0,"primary",FALSE,TRUE,0,1,0,0,TRUE,TRUE
+"34853","      222145","viii","urban","son/daughter","male",9,4,"advanced","has certificate","yes","yes","yes","yes","yes","no","yes",37,"no",NA,"no",NA,"primary",FALSE,TRUE,1,0,0,0,FALSE,FALSE
+"13523","      154581","v","urban","son/daughter","female",12,2,"advanced","neither certificate or registered","yes","no","yes","no","no","yes","no",40,"no",NA,"no",NA,"primary",FALSE,TRUE,0,1,0,0,FALSE,FALSE
+"38700","      217629","0","urban","son/daughter","female",8,3,"advanced","has certificate","yes","yes","yes","yes","no","yes","yes",64,"no",NA,"no",NA,"primary",FALSE,TRUE,0,1,0,0,TRUE,FALSE
