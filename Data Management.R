@@ -28,8 +28,8 @@ data1 <- subset(data0,select=c(
                              "hv225", #Share bathroom with other HH's
                              "hv237", #Anything done to water to make potable
                              "hv244", #HH has land usable for agriculture
-                             "hv245",  #Hectares of land usable for agriculture
-                             "sh25" #HH education level
+                             "hv245", #Hectares of land usable for agriculture
+                             "sh25" #Education categorical variable
                              ))
 
 ###FORMATTING AND CREATING VARIABLES###
@@ -58,7 +58,8 @@ data2 <- data2 %>% rename(
                       "WATER_TREATED"=hv237,
                       "HAS_AGROLAND"=hv244,
                       "ACRES_AGROLAND"=hv245,
-                      "HH_HEAD_EDUCATION"=sh25)
+                      "EDUCATION_LEVEL"=sh25
+                      )
 data2 <- data2 %>% rename_with(tolower)
 
 #Create femalehead
@@ -92,8 +93,14 @@ for (i in unique(data2$hhid)){
   data2a=rbind(data2a,temp)
 }
 
+#Create household level household head education level variable (LATER)
+# data2a$hh_head_education <- NA
+# data2b=date.frame()
+# for(i in unique(data2b$hhid))
+
+
 ###LIMITING TO POPULATION OF INTEREST###
-data3 <- data2 %>% filter(
+data3 <- data2a %>% filter(
 #Limit the dataset to children aged 6-14
                           age > 5, age < 15,
 #Remove missing values for child's education
@@ -104,24 +111,37 @@ data3 <- data2 %>% filter(
 
 ###CREATE ADDITIONAL VARIABLES###
 #Create oldest_male_child
-data3$oldest_male_child <- NA
+data3$oldest_child <- FALSE
+data3$oldest_male_child <- FALSE
 data3a=data.frame()
 for (i in unique(data3$hhid)){
   temp=data3[which(data3$hhid==i),]
-  temp$oldest_child[which(temp$age==max(temp$age))]=1
-  temp$oldest_male_child[which(temp$oldest_child==1 & temp$sex=="male")]
+  temp$oldest_child[which(temp$age==max(temp$age))]=TRUE
+  temp$oldest_male_child[which(temp$oldest_child==1 & temp$sex=="male")]=TRUE
   data3a=rbind(data3a,temp)
 }
+
+###REMOVE UNNECESSARY VARIABLES###
+data4 <- subset(data3a, select = -c(married_head,
+                                    together_head,
+                                    div_wid_sep_head,
+                                    nevermarried_head,
+                                    sex_of_head,
+                                    marital_status))
 
 
 ###CREATING RANDOM SAMPLE###
 #Take a random sample
-set.seed(0)
-sample1 <- data3[sample(nrow(data3), 150), ]
+set.seed(1)
+sample1 <- data4[sample(nrow(data4), 150), ]
+
+#Recode Categorical Variables
 
 #Summary
 summary(sample1)
 
 #Write the CSV for the Sample
 write.csv(sample1,file="Sample1.csv")
+
+
 
