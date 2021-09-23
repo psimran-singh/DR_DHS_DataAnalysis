@@ -55,7 +55,7 @@ educationplot <- ggplot(data4, aes(y=years_of_education)) +
 educationplot
 
 agechart <- ggplot(data4, aes(x=age))+
-  geom_bar(stat="count")+
+  geom_bar(position="dodge",stat="count")+
   scale_x_continuous(breaks = data4$age) +
   theme_minimal() +
   ggtitle("Distribution of Age")+
@@ -63,9 +63,29 @@ agechart <- ggplot(data4, aes(x=age))+
 agechart
 
 educationchart <- ggplot(data4, aes(x=years_of_education))+
-  geom_bar(stat="count")+
+  geom_bar(position="dodge",stat="count")+
   scale_x_continuous(breaks = data4$years_of_education) +
   theme_minimal() +
   ggtitle("Distribution of Years of Education")+
   theme(plot.title = element_text(hjust = 0.5))
 educationchart
+
+educationchart_byfemalehead <- ggplot(data4, aes(x=years_of_education,fill=female_head))+
+  geom_bar(position="dodge",stat="count")+
+  scale_x_continuous(breaks = data4$years_of_education) +
+  theme_minimal() +
+  ggtitle("Distribution of Years of Education\nby Head of Household Sex")+
+  theme(plot.title = element_text(hjust = 0.5))+
+  scale_fill_discrete(name="HH Head Sex",
+                      breaks=c("FALSE", "TRUE"),
+                      labels=c("Male", "Female"))
+educationchart_byfemalehead
+
+edu_box_plot <- ggplot(data4, aes(x=years_of_education, fill=female_head))+
+  geom_boxplot()
+edu_box_plot
+
+mean(data4$years_of_education,na.rm=TRUE)
+mean_educ_female_head <- mean(data4$years_of_education[data4$female_head==TRUE],na.rm=TRUE)
+mean_educ_male_head <- mean(data4$years_of_education[data4$female_head==FALSE],na.rm=TRUE)
+
